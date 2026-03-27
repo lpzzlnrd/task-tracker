@@ -36,7 +36,7 @@ node task-cli.js mark-done 2
 node task-cli.js list
 node task-cli.js list done
 node task-cli.js list todo
-node task-cli.js list in-progress
+node task-cli.js list "in-progress"
 ```
 
 ## task json shape
