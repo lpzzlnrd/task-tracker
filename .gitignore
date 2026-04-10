@@ -1,1 +1,20 @@
 tasks.json
+
+# Python virtual environments
+.venv/
+venv/
+env/
+lenguajes/env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# VS Code and OS files
+.vscode/
+.DS_Store
+Thumbs.db

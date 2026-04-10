@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "cbc65a11cdfe8491",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4bc64f1d7dcfcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aca7873f7bc92cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPO SISTEMAS DE OPERACION..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EXPO SISTEMAS DE OPERACION."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a3fd15fa751bf58",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbaac6733016da38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823b9eb888169349",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b4c2b2fca9e41280",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4068762cf217808b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "068e59ae6990bf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83b09949e9a5698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e784591b058fc035",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "a8b31506ad758215",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "79e843e6b13a8392",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "93db4c3621c85194",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "39c33ca5d463fb81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "2aca7873f7bc92cf",
+  "lastOpenFiles": [
+    "LENGUAJES DE PROG 14-3.md",
+    "PROGRAMACION 14-3.md",
+    "Sin título.md",
+    "EXPO SISTEMAS DE OPERACION..md",
+    "INFORME SISTEMAS DE OPERACION..md",
+    "INFORME SISTEMAS DE OPERACION..pdf",
+    "lenguajes/__pycache__/server.cpython-313.pyc",
+    "lenguajes/__pycache__",
+    "lenguajes/env/Lib/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-313.pyc",
+    "lenguajes/env/Lib/site-packages/pip/__pycache__/__pip-runner__.cpython-313.pyc",
+    "lenguajes/env/Lib/site-packages/pip/__pycache__/__main__.cpython-313.pyc",
+    "lenguajes/env/Lib/site-packages/pip/__pycache__/__init__.cpython-313.pyc",
+    "lenguajes/env/Lib/site-packages/pip/__pycache__",
+    "lenguajes/server.py",
+    "lenguajes/main.py",
+    "lenguajes/env/Lib/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "lenguajes/env/Lib/site-packages/pip/_vendor/idna/LICENSE.md",
+    "lenguajes/entorno/Lib/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "lenguajes/entorno/Lib/site-packages/pip/_vendor/idna/LICENSE.md",
+    "PROGRAMACION MATEMATICA..md",
+    "Bienvenido.md"
+  ]
+}
